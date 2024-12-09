@@ -1,0 +1,12 @@
+,,,,,,,
+DNA Complementer,2,,,,,,
+ATCG,****,,,,,,
+q0,,,,,,,
+qacc,,,,,,,
+qrej,,,,,,,
+halting condition,20,,,,,,
+q0,A,*,q0,A,T,R,R
+q0,T,*,q0,T,A,R,R
+q0,C,*,q0,C,G,R,R
+q0,G,*,q0,G,C,R,R
+q0,*,*,qacc,*,*,S,S
